@@ -1,6 +1,6 @@
 # cone-of-silence
 
-encrypts and decrypts objects using [private-box](https://github.com/auditdrivencrypto/private-box), in node or the browser
+encrypts and decrypts javascript objects using [private-box](https://github.com/auditdrivencrypto/private-box), in node or the browser
 
 ## installation
 

@@ -1,7 +1,7 @@
 {
   "name": "cone-of-silence",
-  "version": "1.0.0",
-  "description": "encrypt/decrypt objects with private-box",
+  "version": "1.0.1",
+  "description": "encrypt/decrypt javascript objects with private-box",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "tape": "^4.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsehow/cone-of-silence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elsehow/cone-of-silence/issues"
+  },
+  "homepage": "https://github.com/elsehow/cone-of-silence#readme"
 }
