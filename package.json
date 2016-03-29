@@ -1,0 +1,18 @@
+{
+  "name": "cone-of-silence",
+  "version": "1.0.0",
+  "description": "encrypt/decrypt objects with private-box",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "elsehow",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "chloride": "^2.1.1",
+    "private-box": "^0.1.1"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
