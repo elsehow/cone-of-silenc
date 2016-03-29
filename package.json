@@ -1,6 +1,6 @@
 {
   "name": "cone-of-silence",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "encrypt/decrypt javascript objects with private-box",
   "main": "index.js",
   "scripts": {

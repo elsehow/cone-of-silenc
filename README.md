@@ -2,6 +2,8 @@
 
 encrypts and decrypts javascript objects using [private-box](https://github.com/auditdrivencrypto/private-box), in node or the browser
 
+![](https://ipfs.pics/QmaQdXdQRJCcYHEfhvdDoQQKDJjpyKy2iPsR3opZu58HKe)
+
 ## installation
 
     npm install cone-of-silence
